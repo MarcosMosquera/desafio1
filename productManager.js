@@ -1,6 +1,7 @@
 class ProductManager {
 
     constructor(products) {
+        this.path = path
         this.products = []
         this.title = title
         this.description = description
